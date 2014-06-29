@@ -1,0 +1,25 @@
+{
+  "name": "WebMockups",
+  "version": "0.0.0",
+  "homepage": "https://github.com/joverall22/WebMockups",
+  "authors": [
+    "joverall22 <joverall22@gmail.com>"
+  ],
+  "description": "\"A simple folder structure for designing websites using angularand bootstrap.\"",
+  "main": "[\"./app/views/shared/layout.html\", \"./app/styles/site.css\", \"./app/scripts/app.js\", \"./app/views/index.html\"]",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.18",
+    "bootstrap": "~3.2.0"
+  }
+}
